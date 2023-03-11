@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on js, java projects
 - 📫 How to reach me https://www.linkedin.com/in/aq82/
 
-#My Stats
+My Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulazizQ3382)](https://github.com/anuraghazra/github-readme-stats)
 
